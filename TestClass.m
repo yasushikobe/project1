@@ -14,6 +14,11 @@ classdef TestClass
         function outputArg = getX(obj)
             outputArg = obj.x;
         end
+        
+        function outputArg = getX2(obj)
+            outputArg = obj.x * 2;
+        end
+        
     end
 end
 
