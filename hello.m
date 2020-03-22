@@ -1,1 +1,6 @@
+%% ƒnƒ[
+clear;
+
 disp('Hello!')
+
+%%
